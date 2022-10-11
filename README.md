@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/https://404pagenotfoundjerryv.netlify.app/.png)
+
 https://404pagenotfoundjerryv.netlify.app/
 
 ### Built With
