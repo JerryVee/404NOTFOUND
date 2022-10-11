@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+
+.h2{
+
+    
+    position: absolute;
+    width: 133px;
+    height: 25px;
+    left: 77px;
+    top: 40px;
+
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    
+    white-space: nowrap;
+    color: #333;
+}
+
+.img{
+max-width: 500px;
+height: auto;
+top: 100px;
+left: 20px;
+
+position: absolute;
+left: 10%;
+right: 60%;
+top: 24.54%;
+bottom: 34.84%;
+}
+
+
+
+.resize {
+    width: 500px;
+    height: auto;
+}
+
+h1{
+    position: absolute;
+    width: 586px;
+    height: 190px;
+    left: 735px;
+    top: 265px;
+
+    font-family: 'Space Mano', monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    
+    color: #333;
+}
+
+p {
+  position: absolute;
+  width: 381px;
+  left: 736px;
+  top: 491px;
+  
+  font-family: 'Space Mono', monospace;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 40px;
+  letter-spacing: 1px;
+  color: black;
+}
+
+button {
+    position: absolute;
+    width: 130px;
+    height: 21px;
+    left: 783px;
+    top: 687px;
+
+    font-family: 'Space mono',monospace;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: white;
+}
+
+.btn {
+   position: absolute;
+   width: 216px;
+   height: 68px;
+   left: 740px;
+   top: 663px; 
+   border-radius: 8px;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   background-color: rgb(24, 4, 114);
+  
+}
+#footer {
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 577px;
+    top: 1039px;
+
+    font-family: 'space mono', monospace;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #bdbdbd;
+    white-space: nowrap;
+
+
+    
+}
+
