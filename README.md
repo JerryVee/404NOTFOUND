@@ -35,7 +35,8 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![screenshot](https://404pagenotfoundjerryv.netlify.app/)
+![screenshot]<img width="1432" alt="Screen Shot 2022-10-10 at 11 41 28 PM" src="https://user-images.githubusercontent.com/21355377/195018956-99e5525d-da47-49b1-97d6-19b2aa08c201.png">
+
 
 ### Built With
 
