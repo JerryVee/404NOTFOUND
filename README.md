@@ -65,6 +65,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [linkedin.com]https://www.linkedin.com/in/gerardovillagrana/
+- Website https://www.linkedin.com/in/gerardovillagrana/
 - GitHub [@JerryVee](https://{github.com/jerryvee})
 - Twitter [@jerryvillagrana](https://{twitter.com/jerryvillagrana})
